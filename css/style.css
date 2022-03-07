@@ -1,0 +1,16 @@
+.cont{
+          text-align: center;
+}
+
+i{
+          font-size: 2rem;
+          border: 1px solid green;
+          color: rgb(84, 99, 99);
+          border-radius: 50%;
+          transition: background .5s;
+          padding: 10px;
+}
+i:hover{
+          background-color: red;
+          cursor: pointer;
+}
